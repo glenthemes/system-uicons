@@ -883,7 +883,7 @@ document.querySelectorAll(".system-uicons").forEach(div => {
 
   var svgvar = window["sys_" + iconame];
 
-  if (svgvar !== null) {
+  if(svgvar !== null){
     var hecc = document.createElement("p");
     hecc.classList.add("sys-temp");
     hecc.innerHTML = svgvar;
