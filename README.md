@@ -14,10 +14,10 @@ Paste the following under the `<head>` tag on your site:
 <!--
         System UIcons by Corey Ginnivan
         icon font version by @glenthemes
-        💌 https://systemuicons.com/
-        🔮 https://git.io/Jaz87
+        💌 systemuicons.com
+        🔮 git.io/Jaz87
 --->
-<script src="https://cdn.jsdelivr.net/gh/glenthemes/system-uicons/get-icons.js"></script>
+<script src="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/get-icons.js"></script>
 <link href="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/style.css" rel="stylesheet">
 ```
 
@@ -50,3 +50,8 @@ e.g.:
   --System-UIcons-Color:#c2a7a8;
 }
 ```
+---
+
+#### 🔥 TROUBLESHOOTING:
+
+https://discord.gg/RcMKnwz
