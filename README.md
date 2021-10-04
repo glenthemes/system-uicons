@@ -11,12 +11,6 @@ License info: https://git.io/JauxP
 
 Paste the following under the `<head>` tag on your site:
 ```html
-<!--
-        System UIcons by Corey Ginnivan
-        icon font version by @glenthemes
-        💌 systemuicons.com
-        🔮 git.io/Jaz87
---->
 <script src="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/get-icons.js"></script>
 <link href="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/style.css" rel="stylesheet">
 ```
