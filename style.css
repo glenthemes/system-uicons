@@ -1,0 +1,27 @@
+.system-uicons {
+    display:inline-block;
+    speak: never;
+    font-style:normal;
+    font-weight:normal;
+    font-variant:normal;
+    text-transform:none;
+    line-height:var(--System-UIcons-Size);
+    vertical-align:middle;
+}
+
+.system-uicons svg {
+    display:block;
+    width:var(--System-UIcons-Size);
+    height:var(--System-UIcons-Size);
+}
+
+.system-uicons svg [stroke="currentColor"]{
+    stroke:var(--System-UIcons-Color);
+}
+
+.system-uicons svg path[fill="currentColor"],
+.system-uicons svg g[fill="currentColor"],
+.system-uicons svg circle[fill="currentColor"],
+.system-uicons svg rect[fill="currentColor"]{
+    fill:var(--System-UIcons-Color);
+}
