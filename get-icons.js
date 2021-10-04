@@ -874,7 +874,7 @@ document.querySelectorAll(".system-uicons").forEach(div => {
 var sys_css = document.createElement("link");
 sys_css.setAttribute("rel","stylesheet");
 sys_css.setAttribute("type","text/css");
-sys_css.setAttribute("href","//www.googleapis.com/drive/v3/files/1UOWWsZGUTqMfFJyC_2an4-S1zEu4b0xX?alt=media&key=AIzaSyDHNXAcUv_vkqFu8shs9bX-Cuq-2kkPr20&v=.css");
+sys_css.setAttribute("href","//cdn.jsdelivr.net/gh/glenthemes/system-uicons@master/style.css");
 document.getElementsByTagName("head")[0].appendChild(sys_css);
 
 // once stylesheet has loaded, show the icons
