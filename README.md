@@ -11,7 +11,7 @@ License info: https://git.io/JauxP
 
 Paste the following under the `<head>` tag on your site:
 ```html
-<script src="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/get-icons.js"></script>
+<script src="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/init-icons.js"></script>
 <link href="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/style.css" rel="stylesheet">
 ```
 
