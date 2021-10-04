@@ -29,7 +29,7 @@ If the icon name contains dashes, brackets, or `%` signs, **please include them.
 
 #### 🔥 HOW TO CUSTOMIZE:
 
-To change the general size & color of the icons, add this to your CSS and adjust as necesary:
+To set the general size & color of the icons, add this to your CSS and adjust as necesary:
 ```css
 .system-uicons {
   --System-UIcons-Color:#beabea;
