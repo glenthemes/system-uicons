@@ -5,14 +5,16 @@ Compiled all 420 icons into an icon font for easier use.
 
 License info: https://git.io/JauxP
 
+Last updated: Oct. 5th 2021 10:39AM (GMT+8)
+
 ---
 
 #### 🔥 HOW TO USE:
 
 Paste the following under the `<head>` tag on your site:
 ```html
-<script src="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/init-icons.js"></script>
-<link href="//cdn.jsdelivr.net/gh/glenthemes/system-uicons/style.css" rel="stylesheet">
+<script src="//glenthemes.github.io/system-uicons/init-icons.js"></script>
+<link href="//glenthemes.github.io/system-uicons/style.css" rel="stylesheet">
 ```
 
 To use an icon, insert the following in your HTML wherever you want it:
