@@ -9,6 +9,10 @@ Last updated: Oct. 5th 2021 10:39AM (GMT+8)
 
 ---
 
+🛎️ As of June 2024, a CSS-only icon font version is now available! Check it out [on the main page](https://git.io/Jaz87).
+
+---
+
 #### 🔥 HOW TO USE:
 
 Paste the following under the `<head>` tag on your site:
