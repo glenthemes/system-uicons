@@ -1,53 +1,48 @@
-## system-uicons / icon font
-
-Originally by https://github.com/CoreyGinnivan/system-uicons  
-Compiled all 420 icons into an icon font for easier use.
-
-License info: https://git.io/JauxP
-
-Last updated: Oct. 5th 2021 10:39AM (GMT+8)
+### System UIcons by Corey Ginnivan – icon font
 
 ---
 
-#### 🔥 HOW TO USE:
+**Disclaimer:** System UIcons belongs to Corey Ginnivan in its entirety, this icon font exists as an easier way to add icons to your project(s)!\
+**GitHub:** [github.com/CoreyGinnivan/system-uicons](https://github.com/CoreyGinnivan/system-uicons)\
+**Original site:** [systemuicons.com](https://systemuicons.com)\
+**Icons list:** [system-uicons.gitlab.io/i/icons-list](https://system-uicons.gitlab.io/i/icons-list)
+
+Last updated: 2024-06-14 8:34PM (GMT-7)
+
+---
+
+⏳ If you are looking for the SVG version (2021), view [this page](https://github.com/glenthemes/system-uicons/blob/main/2021/README.md) instead.
+
+---
+
+#### 🔥 HOW TO USE:
 
 Paste the following under the `<head>` tag on your site:
 ```html
-<script src="//glenthemes.github.io/system-uicons/init-icons.js"></script>
-<link href="//glenthemes.github.io/system-uicons/style.css" rel="stylesheet">
+<link href="https://system-uicons.gitlab.io/i/icons.css" rel="stylesheet" crossorigin>
 ```
 
 To use an icon, insert the following in your HTML wherever you want it:
-```
+```html
 <i class="system-uicons" icon-name="create"></i>
 ```
 
-Choose one from [the list](https://systemuicons.com/) and copy the name (don't click on it), and paste it between the quotation marks `""` of `icon-name=""`
-.
-
-If the icon name contains dashes, brackets, or `%` signs, **please include them.**
+Choose an icon from [the list](system-uicons.gitlab.io/i/icons-list), and paste the name between the quotation marks `""` of `icon-name=""`.
 
 ---
 
-#### 🔥 HOW TO CUSTOMIZE:
+#### 🔥 HOW TO CUSTOMIZE:
 
-To set the general size & color of the icons, add this to your CSS and adjust as necesary:
+You can set the icon's size and color (and other styling) like you would with any regular font face, such as:
 ```css
 .system-uicons {
-  --System-UIcons-Color:#beabea;
-  --System-UIcons-Size:16px;
-}
-```
-
-If you want to use the icons again in another location with different styling:  
-e.g.:
-```css
-.special-class {
-  --System-UIcons-Color:#c2a7a8;
+    font-size: 20px;
+    color: #beabea;
 }
 ```
 ---
 
 #### 🔥 TROUBLESHOOTING:
 
-https://discord.gg/RcMKnwz
+* [discord.gg/RcMKnwz](https://discord.gg/RcMKnwz), or
+* [glenthemes.exe@gmail.com](mailto:glenthemes.exe@gmail.com)
